@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
 
 <p align="center">
-  <a href="https://axel4design.tk">My Site</a> •
+  <a target="_blank" href="https://axel4design.tk">My Site</a> •
   <a href="https://github.com/leyam2468">GitHup Link</a> •
   <a href="https://www.facebook.com/leyam24685">Facebook</a> •
-  <a href="https://http://instagram.com/leyam24685">Instagram</a> •
+  <a href="http://instagram.com/leyam24685">Instagram</a> •
 </p>
 
 Here are some ideas to get you started:
