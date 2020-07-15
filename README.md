@@ -1,16 +1,20 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
 
-<!--
-**leyam2468/leyam2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://axel4design.tk">My Site</a> •
+  <a href="https://github.com/leyam2468">GitHup Link</a> •
+  <a href="https://www.facebook.com/leyam24685">Facebook</a> •
+  <a href="https://http://instagram.com/leyam24685">Instagram</a> •
+</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Freelance
+- 🌱 I’m currently learning Vuejs
+- 👯 I’m looking to collaborate on Vuejs
+- 🤔 I’m looking for help with Nuxtjs
+- 💬 Ask me about Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
